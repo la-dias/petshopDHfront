@@ -1,0 +1,23 @@
+.pets-container {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .pets-register {
+    width: 45vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .pets-list {
+    width: 45vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .pets-list table {
+    width: 80%;
+    border: 1px solid #282c34;
+  }
